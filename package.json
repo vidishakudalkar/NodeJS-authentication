@@ -1,0 +1,21 @@
+{
+  "name": "project_users_authentication",
+  "version": "1.2.0",
+  "description": "User Authentication with tokens",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "minimist": "^1.2.0",
+    "moment": "^2.19.1",
+    "mongodb": "^2.2.33",
+    "uuidv4": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vidisha Kudalkar",
+  "license": "ISC"
+}
